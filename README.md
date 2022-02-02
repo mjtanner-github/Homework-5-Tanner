@@ -7,15 +7,16 @@
 3. style.css: Governs the visual and display behavior of the application.
 4. script.js: Governs all computations and general behavior aspects of the application.
 ## Top Dowm Design
-### A. Contruct the daily planner visually.
+### A. Contruct The Daily Planner Visually.
 #### 1. Header
 ##### a. Title
 ##### b. Day/Date enunciator
 ##### c. Daily Schedule
 ###### (1) Hourly Entry 
-###### (a) Hour Lable
+###### (a) Hour Label
 ###### (b) Hour Task/Assignment 
 ###### (c) Commit/Clear Toggle 
-
-
+### B. Recieve User Input
+#### 1. Get The User Input From The Text Input Pane
+#### 2. Upon Clicking The Lock/Clear Toggle, Store To Browser Local Memory 
 
