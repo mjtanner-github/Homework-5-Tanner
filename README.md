@@ -13,9 +13,9 @@
 ##### b. Day/Date enunciator
 ##### c. Daily Schedule
 ###### (1) Hourly Entry 
-####### (a) Hour Lable
-####### (b) Hour Task/Assignment 
-####### (c) Commit/Clear Toggle 
+###### (a) Hour Lable
+###### (b) Hour Task/Assignment 
+###### (c) Commit/Clear Toggle 
 
 
 
