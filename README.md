@@ -16,7 +16,10 @@
 ###### (a) Hour Label
 ###### (b) Hour Task/Assignment 
 ###### (c) Commit/Clear Toggle 
+###### (d) Color task panes according to hour from "moment.js" and specification. 
 ### B. Recieve User Input
 #### 1. Get The User Input From The Text Input Pane
-#### 2. Upon Clicking The Lock/Clear Toggle, Store To Browser Local Memory 
-
+#### 2. Upon Clicking The Lock/Clear Toggle, Store To browser local memory. 
+#### 3. On subsequent click of Lock/Clear Toggle, clear entry from browser local memory.
+## What's Left to Do
+### A. Color Lock/Clear Toggles according to locked status.
