@@ -11,12 +11,12 @@
 #### 1. Header
 ##### a. Title
 ##### b. Day/Date enunciator
-##### c. Daily Schedule
-###### (1) Hourly Entry 
-###### (a) Hour Label
-###### (b) Hour Task/Assignment 
-###### (c) Commit/Clear Toggle 
-###### (d) Color task panes according to hour from "moment.js" and specification. 
+#### 2. Daily Schedule
+##### a. Hourly Entry 
+###### (1) Hour Label
+###### (2) Hour Task/Assignment 
+###### (3) Commit/Clear Toggle 
+#### 3.Color task panes according to hour from "moment.js" and specification. 
 ### B. Recieve User Input
 #### 1. Get The User Input From The Text Input Pane
 #### 2. Upon Clicking The Lock/Clear Toggle, Store To browser local memory. 
