@@ -22,7 +22,7 @@
 #### 2. Upon Clicking The Lock/Clear Toggle, Store To browser local memory. 
 #### 3. On subsequent click of Lock/Clear Toggle, clear entry from browser local memory.
 ## What's Left to Do
-### A. Color Lock/Clear Toggles according to locked status.
+### A. Color code Lock/Clear Toggles according to locked/cleared status.
 ### B. Make the application more accessible to phones and small devices. 
 ### C. Improve Lock/Clear Toggle so that existing text can be appended.
 ### D. Implement navigation header and exit. 
