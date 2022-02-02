@@ -16,7 +16,7 @@
 ###### (1) Hour Label
 ###### (2) Hour Task/Assignment 
 ###### (3) Commit/Clear Toggle 
-#### 3.Color task panes according to hour from "moment.js" and specification. 
+#### 3.Color task panes according to the hour recieved from "moment.js" and specification. 
 ### B. Recieve User Input
 #### 1. Get The User Input From The Text Input Pane
 #### 2. Upon Clicking The Lock/Clear Toggle, Store To browser local memory. 
