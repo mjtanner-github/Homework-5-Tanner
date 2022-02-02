@@ -6,7 +6,7 @@
 2. Index.html: Governs the main application layout.
 3. style.css: Governs the visual and display behavior of the application.
 4. script.js: Governs all computations and general behavior aspects of the application.
-## Top Dowm Design
+## Top Down Design
 ### A. Contruct The Daily Planner Visually.
 #### 1. Header
 ##### a. Title
